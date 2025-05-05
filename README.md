@@ -1,1 +1,2 @@
 # C++ Ejercicios
+conociendo Git.
